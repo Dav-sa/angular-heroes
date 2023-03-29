@@ -6,6 +6,7 @@ L'application permet de :
 - consommer une liste de héros et l'afficher à l'utilisateur
 - afficher / modifier les détails d'un héros
 - permettre la navigation entre deux vues grâce au module de routing
+- accéder à un service de messagerie qui affiche les derniers héros sélectionnés
 
 ## Les trucs que j'ai bien compris
 
